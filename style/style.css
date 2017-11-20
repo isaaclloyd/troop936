@@ -1,4 +1,4 @@
-html
+v  html
 { height: 100%;}
 
 *
@@ -139,7 +139,8 @@ ul#menu li
 
 ul#menu li a
 { letter-spacing: 0.1em;
-  font: normal 100% 'lucida sans unicode', arial, sans-serif;
+  font:'lucida sans unicode', arial, sans-serif;
+  font-size: 80%;
   display: block; 
   float: left; 
   height: 37px;
@@ -294,3 +295,5 @@ table tr td
 { background: #F0EFE2;
   color: #47433F;
   border-top: 1px solid #FFF;}
+
+
